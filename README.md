@@ -5,9 +5,10 @@ A real-time collaborative whiteboard application that enables multiple users to 
 ### Demonstration
 
 Here’s a GIF showcasing the real-time drawing capabilities of the collaborative whiteboard:
+
 ![Description of GIF](whiteBoard/whiteboard.gif)
 
-# Real-Time Collaborative Whiteboard Q&A
+# Questions
 
 ## 1. How would you set up a real-time WebSocket connection in a React component for collaborative editing?
 
@@ -52,10 +53,9 @@ To ensure scalability and performance:
 This case study explores the development of a social media feed with infinite scrolling, enabling users to continuously load more content as they scroll down the page. The project focuses on optimizing the user experience by minimizing load times and ensuring smooth transitions between new and existing content. Built using efficient data fetching techniques and front-end frameworks, this feature enhances user engagement and provides a seamless browsing experience on social media platforms.
 
 ### Demonstration
-Here’s a GIF showcasing the infinite scroll created using react
-![Description of GIF](react_infinite_scroll-main/infiniteScroll.gif)
+Here’s a GIF showcasing the infinite scroll created using react:
 
-# Case Study 4: Social Media Feed with Infinite Scrolling
+![Description of GIF](react_infinite_scroll-main/infiniteScroll.gif)
 
 ## Questions
 
